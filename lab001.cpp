@@ -1,5 +1,3 @@
-#include<iostream>
-#include <windows.h>
 #include "GL/glut.h"
 
 using namespace std;
