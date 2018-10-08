@@ -1,9 +1,7 @@
-/* -- INCLUDE FILES ------------------------------------------------------ */
 #include <gl/gl.h>
 #include <gl/glu.h>
 #include <gl/glut.h>
 
-/*  Create checkerboard texture  */
 #define checkImageWidth 64
 #define checkImageHeight 64
 static GLubyte checkImage[checkImageHeight][checkImageWidth][4];
